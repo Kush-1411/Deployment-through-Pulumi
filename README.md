@@ -36,7 +36,7 @@ Default region name [None]: us-west-2
 Default output format [None]: json
 
 
-Now, you readdfy to go:-
+Now, you ready to go:-
 
 
 #######Create a new project####### :
