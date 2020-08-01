@@ -50,4 +50,3 @@ Step 7:- code . , its open yourv editor to help to access your main file and oth
 Step 8:- You have a main.py file which by default have a s3 bucket code ,that creates a s3 bucket .
 Step 9:- To check whether it have a error or not , type a command in a terminal of visula studio or in your root terminal pulumi preview
 Step 10:- If have a error then debug it,otherwise run pulumi up in a termianl.
-In  a next  have upload with a images too .
